@@ -16,8 +16,13 @@ Main Language: Python (and some language with yt player)
 
 Core Features:
 * Instantiate Playlists: Provide Website only for the Player
-* Send Optional Notifications when next song plays
 * A user can only use one Playlist at the same time, other Playlists then cannot be used/modified.
-* Make one or more operator per playlist, this is the creator by default
+* Operator, this is the creator by default
 * Operators can delete playlists
 * A user can not operate more than 5 playlists.
+Optional Features:
+* Premium User
+* Play inside Telegram
+* Song Voting
+* Make more operators per playlist
+* Send Optional Notifications when next song plays
